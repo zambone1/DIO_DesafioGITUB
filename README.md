@@ -37,7 +37,7 @@ feito via https, ssh ou chave
         ele não saberá que houve modificação.
  5.2° - git add
  5.3° - git commit para saber quais mudanças fora feitas.
- 5.3° - git push main/master para enviar o código de volta para o GitHub.
+ 5.3° - git push origin main/master para enviar o código de volta para o GitHub.
         (Alguns casos o código pedirá main outros master, no meu caso é pedido como main)
 
  Todas as funções só são efetuadas após a vinculação da máquina Git com o GitHub.
